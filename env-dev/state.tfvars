@@ -1,3 +1,3 @@
 bucket="d80-terraform1"
-key="roboshop-ts-state/prod/terraform.tfstate"
+key="roboshop-tf-state/dev/terraform.tfstate"
 region="us-east-1"
